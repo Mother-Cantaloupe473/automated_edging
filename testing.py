@@ -1,3 +1,11 @@
+#This is a first small program that allows me to further analyze the PONR, 
+#which is basically the most important thing to analyze when wanting to create automated edging
+#
+#All this program does is allowing the user to press a button everytime the PONR is reached and logging the data in a textfile which can be analyzed afterwards
+#
+#This is only a very early draft of the program so certain intervals (for example non stimulation time after) have to be timed manually,
+#further functionality is planned in the next update
+
 from re import I
 import tkinter as tk
 from tkinter import ttk
